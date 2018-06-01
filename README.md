@@ -31,4 +31,6 @@
 6、iOS 处理图片的一些小 Tip：https://blog.ibireme.com/2015/11/02/ios_image_tips/
 
 7、苹果官方开放文档：https://opensource.apple.com/
+
+8、一些优秀的第三方库和文档：https://www.jianshu.com/p/8bd0e2d2de99?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation
    
